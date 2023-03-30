@@ -1,0 +1,8 @@
+[Unit]
+Description=update-irc job
+
+[Service]
+Type=oneshot
+User=tekakutli
+Group=tekakutli
+ExecStart=/bin/bash /home/tekakutli/files/code/mine/irc-logs/schedule.sh

@@ -1,0 +1,9 @@
+[Unit]
+Description=update-irc
+
+[Timer]
+OnUnitActiveSec=15 min
+OnBootSec=20s
+
+[Install]
+WantedBy=timers.target

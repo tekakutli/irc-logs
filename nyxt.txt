@@ -1,0 +1,6 @@
+updated every 15 minutes (when Im online)
+
+2023-04-02T00:04:11.286Z|whereiseveryone|no probs, anytime
+2023-04-02T00:01:02.970Z|tekakutli|thank u for sharing whereiseveryone
+2023-04-01T23:54:31.592Z|whereiseveryone|For anyone interested, Sunday Demo: Live Loading Common Lisp Systems with Guix https://mail.gnu.org/archive/html/guix-devel/2023-03/msg00363.html
+2023-03-30T21:16:51.987Z|jmercouris|hello edgarvincent[m] !
